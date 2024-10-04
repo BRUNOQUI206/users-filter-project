@@ -1,0 +1,11 @@
+.users-list {
+  padding: 20px;
+
+  &__item {
+    cursor: pointer;
+  }
+}
+
+.mat-mdc-table {
+  background-color: transparent;
+}
